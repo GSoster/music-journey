@@ -2,6 +2,9 @@
 My Music journey
 
 
+## Chords
+
+Acorde dominante: V grau com sétima menor, ex: G7
 
 
 ## Techniques to learn
