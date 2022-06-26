@@ -4,11 +4,13 @@ My Music journey
 
 ## Chords
 
+Acordes são construídos a partir do empilhamento de terças.
+
 Acorde dominante: V grau com sétima menor, ex: G7
 
 
 Acordes com Sétima mais usados no Jazz:
-- Cmaj7 = usa a sétima maior: C, E, G, B
+- Cmaj7 | C▲ = usa a sétima maior: C, E, G, B
 - C-7 | Cm7 = Dó menor (terça menor) com sétima menor: C, Eb, G, Bb
 - C7 = usa a sétima menor, também chamado de DOMINANTE: C, E, G, Bb
 
@@ -27,11 +29,23 @@ Um acorde de Cmaj7 por exemplo com diferentes voicings:
 - Cmaj7 voiced in 5ths (notas distribuídas em quitas): C G D E B F#
 
 
+## Chord Progressions
+
+Cada estilo tem seu próprio padrão de progressões de acordes comuns, a música classica costuma usar I - IV - V - I. Música Pop tende a usar I - IV - V - vi, Jazz usa ii - V - I
+
+
 ## Estilos
 
 ### Jazz
 
 [JAZZ PIANO EXPLAINED IN 20 MINUTES - ótimo canal ](https://www.youtube.com/watch?v=RpObAWZ0SKM&t=67s)
+
+#### Chord Progressions
+
+##### ii - V - I
+
+Existem 2 tipos de 2-5-1, o maior e o menor. Maior é muito mais comum.
+Na escala de Dó maior seriam: Dm7, G7 (Dominante), Cmaj7 (C▲)
 
 ## Techniques to learn
 
