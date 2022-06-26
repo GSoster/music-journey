@@ -47,6 +47,15 @@ Cada estilo tem seu próprio padrão de progressões de acordes comuns, a músic
 Existem 2 tipos de 2-5-1, o maior e o menor. Maior é muito mais comum.
 Na escala de Dó maior seriam: Dm7, G7 (Dominante), Cmaj7 (C▲)
 
+2-5-1 menor é usado em blue bossa, exemplo de 2-5-1 menor:
+D meio diminuto, G7, C-▲ (dó menor com sétima maior)
+
+#### Scales
+
+Jazz Scales:
+O Primeiro princípio é garantir que a escala tem as notas cordais (raiz, terça, quinta, sétima) do acorde sendo tocado.
+Os graus 2, 4 e 6 costumam oferecer mais versatilidade, permitindo que os usemos como quisermos.
+
 ## Techniques to learn
 
 - [ ] [Embellishments](https://www.udemy.com/course/piano-embellishments/)
