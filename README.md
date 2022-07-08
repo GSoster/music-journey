@@ -29,6 +29,12 @@ Um acorde de Cmaj7 por exemplo com diferentes voicings:
 - Cmaj7 voiced in 5ths (notas distribuídas em quitas): C G D E B F#
 
 
+### Acordes de passagem / Passing Chords
+
+Acordes de passagem são usados para mover de um grau para outro.
+
+[R&B/Gospel Sound with Dominant 7th](https://www.youtube.com/watch?v=6rA7M5hC_K0)
+
 ## Chord Progressions
 
 Cada estilo tem seu próprio padrão de progressões de acordes comuns, a música classica costuma usar I - IV - V - I. Música Pop tende a usar I - IV - V - vi, Jazz usa ii - V - I
@@ -62,3 +68,4 @@ Os graus 2, 4 e 6 costumam oferecer mais versatilidade, permitindo que os usemos
 - - [ ] Fills 
 - - [ ] Runs
 - - [ ] Scales
+- Acordes de passagem
