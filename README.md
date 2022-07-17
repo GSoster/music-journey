@@ -74,5 +74,23 @@ Os graus 2, 4 e 6 costumam oferecer mais versatilidade, permitindo que os usemos
 ## Resources
 
 ### Podcasts
+
 - [Strong Songs](https://strongsongspodcast.com/): Mergulha em como musicas famosas são feitas e porque funcionam tão bem, mais voltado pra Jazz
+
+### Softwares
+
+
+- [midiculous](https://gospelmusicians.com/products/midiculous-4)
+
+Softwares para Multi-track/Stems
+
+- [Unjammit](https://github.com/hyvart/Unjammit)
+- - Play isolated tracks for each instrument.
+- - Set the volume for the instrument, metronome, or backing track.
+- - Play along with the animated music score or tablature.
+
+Site para obter multi-tracks/stems:
+- https://clubremixer.com/jammit-multitrack-stems-a-z/
+- http://multitrackdownloads.blogspot.com/2012/
+
 
