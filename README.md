@@ -69,3 +69,10 @@ Os graus 2, 4 e 6 costumam oferecer mais versatilidade, permitindo que os usemos
 - - [ ] Runs
 - - [ ] Scales
 - Acordes de passagem
+
+
+## Resources
+
+### Podcasts
+- [Strong Songs](https://strongsongspodcast.com/): Mergulha em como musicas famosas são feitas e porque funcionam tão bem, mais voltado pra Jazz
+
