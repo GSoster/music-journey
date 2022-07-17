@@ -25,10 +25,19 @@ A partir do D# é mais fácil executar as escalas a partir do ciclo das quartas 
   
 ### Escalas Manroes / Minor Scales
   
-  1. Escala Menor Natural  
-  2. Escala Menor Harmonica  
-  3. Escala Menor Melódica  
-  blabla
+#### Escala Menor Natural/Primitica
+
+A escala primitiva menor utiliza a fórmula: T S T T S T T.  
+Na escala primitiva a sétima está um tom abaixo da oitava, 3, 6 e 7 são menores (b3, b6, b7) em relação a escala maior.
+A movimentação pode ser feita em quintas: Am -> Em -> Bm, etc
+ 
+#### Escala Menor Harmonica  
+
+Tem a sétima meio tom abaixo da oitava: b3, b6. É usada assim para poder formar um acorde dominante ( V maior grau com sétima menor, ex: G7) no quinto grau.
+
+#### Escala Menor Melódica  
+  
+sobe de um jeito e desce de outro. Sobe com o b3 apenas (o resto é como se fosse maior) mas desce como se fosse primitiva (b3, b6, b7).
 
 ### Ciclo das Quintas
 
@@ -40,6 +49,10 @@ Mão direita na escala de F# já inicia com o dedo 2
 ### Ciclo das Quartas
 
 A cada nova escala no ciclo das quartas se adiciona um novo acidente (um bemol) na quarta (e mantem os anteriores).
+
+
+### Campo Harmonico
+
 
 ## Chords
 
