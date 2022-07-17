@@ -12,27 +12,27 @@ Exemplos:
 
 | Tom | T | T | S | T | T | T | S |
 |---|---|---|---|---|---|---|---|
-| C  | C | D  |  E | F  | **G**  | A  | B  |
-| G  |  G | A  | B  | C  | **D**  | E  | F#  |
-| D  | D  | E  | F#  | G  | **A**  | B  | C#  |
-| A  | A  | B  | C#  | D  | **E**  | F#  | G#  |
-| E  | E  | F#  | G#  | A  | **B**  | C#  | D#  |
-| B  | B  | C#  | D#  | E  | **F#**  | G#  | A#  |
-| F#  | F#  | G#  |  A# | B  | **C#**  | D#  |  E# |
-| C#  | C#  | D#  | E#  | F#  | **G#**  | A#  | B#  |
+| **C**  | C | D  |  E | F  | **G**  | A  | B  |
+| **G**  |  G | A  | B  | C  | **D**  | E  | F#  |
+| **D**  | D  | E  | F#  | G  | **A**  | B  | C#  |
+| **A**  | A  | B  | C#  | D  | **E**  | F#  | G#  |
+| **E**  | E  | F#  | G#  | A  | **B**  | C#  | D#  |
+| **B**  | B  | C#  | D#  | E  | **F#**  | G#  | A#  |
+| **F#**  | F#  | G#  |  A# | B  | **C#**  | D#  |  E# |
+| **C#**  | C#  | D#  | E#  | F#  | **G#**  | A#  | B#  |
 
 A partir do D# é mais fácil executar as escalas a partir do ciclo das quartas adicionando-se bemois ao quarto grau (que passa a ser a próxima escala na sequência: C -> F -> Bb -> Eb -> Ab, etc
 
 | Tom | T | T | S | T | T | T | S |
 |---|---|---|---|---|---|---|---|
-| C  | C | D  |  E | **F**  | G  | A  | B  |  
-| F  | F |  G |  A | **Bb**  | C  | D  | E  |  
-| Bb  | Bb | C  | D  | **Eb**  |  F |  G | A  |  
-| Eb  | Eb | F  |  G | **Ab**  | Bb  | C  | D  |  
-| Ab  | Ab | Bb  | C  | **Db**  | Eb  | F  | G  |  
-| Db  | Db | Eb  | F  | **Gb**  | Ab  | Bb  | C  |  
-| Gb  | Gb | Ab  | Bb  | **Cb**  | Db  | Eb  | F  |  
-| Cb  | Cb | Db  | Eb  | **Fb**  | Gb  | Ab  | Bb  |  
+| **C**  | C | D  |  E | **F**  | G  | A  | B  |  
+| **F**  | F |  G |  A | **Bb**  | C  | D  | E  |  
+| **Bb**  | Bb | C  | D  | **Eb**  |  F |  G | A  |  
+| **Eb**  | Eb | F  |  G | **Ab**  | Bb  | C  | D  |  
+| **Ab**  | Ab | Bb  | C  | **Db**  | Eb  | F  | G  |  
+| **Db**  | Db | Eb  | F  | **Gb**  | Ab  | Bb  | C  |  
+| **Gb**  | Gb | Ab  | Bb  | **Cb**  | Db  | Eb  | F  |  
+| **Cb**  | Cb | Db  | Eb  | **Fb**  | Gb  | Ab  | Bb  |  
 
   
 ### Escalas Manroes / Minor Scales
