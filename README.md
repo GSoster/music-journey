@@ -63,7 +63,22 @@ Mão direita na escala de F# já inicia com o dedo 2
 A cada nova escala no ciclo das quartas se adiciona um novo acidente (um bemol) na quarta (e mantem os anteriores).
 
 
-### Campo Harmonico
+### Campo Harmônico / Harmonic Field
+
+O Campo harmônico nos permite formar acordes a partir de uma esacala. Os acordes formados utilizam todas as notas da escala e nos dão uma direção quanto a que acordes soam bem uns com os outros.  
+Os acordes do campo harmônico maior são divididos em graus de 1 a 7 e seguem sempre um mesmo padrão quanto a sua classificação em maiores/menores:  
+- I: primeiro grau maior
+- ii: segundo grau menor
+- iii: terceiro grau menor
+- IV: quarto grau maior
+- V: quitno grau maior
+- vi: sexto grau menor
+- vii: sétimo grau meio diminuto
+
+
+| Tom | I | ii | iii | IV | V | vi | vii |
+|---|---|---|---|---|---|---|---|
+| **C**  | C | Dm  |  Em | F  | G  | Am  | Bdim  |
 
 
 ## Chords
