@@ -1,5 +1,6 @@
-# music-journey
-My Music journey
+# Minha Jornada musical
+
+Conjunto de anotações do meu aprendizado musical, a intenção aqui é ter material de referência para as coisas que estudo.
 
 ## Escalas
 
