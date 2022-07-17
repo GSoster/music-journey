@@ -3,10 +3,25 @@ My Music journey
 
 ## Escalas
 
-
 ### Escala Maior / Major Scale
   
-  blabla
+Escala maior segue a fórmula: T T S T T T S
+As escala se move em quintas (C -> G -> D -> A, etc). A cada nova escala no ciclo das quintas se adiciona um novo acidente (sustenido) na sétima (e mantem os anteriores).
+Assim como a nova escala passa a ser a quinta da anterior, a nota raiz (e seu acorde) da escala anterior passa a ser a quarta da próxima (C tem G como seu quinto grau, já na escala de G o C aparecerá como quarto grau).
+Exemplos:
+
+| Tom | T | T | S | T | T | T | S |
+|---|---|---|---|---|---|---|---|
+| C  | C | D  |  E | F  | **G**  | A  | B  |
+| G  |  G | A  | B  | C  | **D**  | E  | F#  |
+| D  | D  | E  | F#  | G  | **A**  | B  | C#  |
+| A  | A  | B  | C#  | D  | **E**  | F#  | G#  |
+| E  | E  | F#  | G#  | A  | **B**  | C#  | D#  |
+| B  | B  | C#  | D#  | E  | **F#**  | G#  | A#  |
+| F#  | F#  | G#  |  A# | B  | **C#**  | D#  |  E# |
+| C#  | C#  | D#  | E#  | F#  | **G#**  | A#  | B#  |
+
+A partir do D# é mais fácil executar as escalas a partir do ciclo das quartas (C -> F -> Bb -> Eb -> Ab, etc)
   
 ### Escalas Manroes / Minor Scales
   
@@ -14,7 +29,18 @@ My Music journey
   2. Escala Menor Harmonica  
   3. Escala Menor Melódica  
   blabla
-  
+
+### Ciclo das Quintas
+
+A cada nova escala no ciclo das quintas se adiciona um novo acidente (sustenido) na sétima (e mantem os anteriores).
+Digitação muda na escala de B na mão esquerda,começar com o dedo 4 (anelar). Evitar sempre usar o polegar em tecla preta
+Mão direita na escala de F# já inicia com o dedo 2
+
+
+### Ciclo das Quartas
+
+A cada nova escala no ciclo das quartas se adiciona um novo acidente (um bemol) na quarta (e mantem os anteriores).
+
 ## Chords
 
 Acordes são construídos a partir do empilhamento de terças.
