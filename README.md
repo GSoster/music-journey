@@ -1,7 +1,20 @@
 # music-journey
 My Music journey
 
+## Escalas
 
+
+### Escala Maior / Major Scale
+  
+  blabla
+  
+### Escalas Manroes / Minor Scales
+  
+  1. Escala Menor Natural  
+  2. Escala Menor Harmonica  
+  3. Escala Menor Melódica  
+  blabla
+  
 ## Chords
 
 Acordes são construídos a partir do empilhamento de terças.
@@ -35,9 +48,18 @@ Acordes de passagem são usados para mover de um grau para outro.
 
 [R&B/Gospel Sound with Dominant 7th](https://www.youtube.com/watch?v=6rA7M5hC_K0)
 
-## Chord Progressions
 
-Cada estilo tem seu próprio padrão de progressões de acordes comuns, a música classica costuma usar I - IV - V - I. Música Pop tende a usar I - IV - V - vi, Jazz usa ii - V - I
+<details>
+  <summary>Progressão de acordes / Chord Progressions</summary>
+  
+  ## Chord Progressions
+  
+  Cada estilo tem seu próprio padrão de progressões de acordes comuns, a música classica costuma usar I - IV - V - I. Música Pop tende a usar I - IV - V - vi, Jazz usa ii - V - I
+  
+</details>
+
+
+
 
 
 ## Estilos
@@ -92,5 +114,4 @@ Softwares para Multi-track/Stems
 Site para obter multi-tracks/stems:
 - https://clubremixer.com/jammit-multitrack-stems-a-z/
 - http://multitrackdownloads.blogspot.com/2012/
-
 
