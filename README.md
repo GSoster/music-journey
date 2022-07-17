@@ -174,6 +174,11 @@ Os graus 2, 4 e 6 costumam oferecer mais versatilidade, permitindo que os usemos
 
 ## Resources
 
+### Sites
+
+- [vgleadsheets](https://www.vgleadsheets.com/) Contém diversas partituras de video-game, agrupadas pelo [Jer Roque](https://www.twitch.tv/jer_roque)
+- [MuseScore](https://musescore.com/)
+
 ### Podcasts
 
 - [Strong Songs](https://strongsongspodcast.com/): Mergulha em como musicas famosas são feitas e porque funcionam tão bem, mais voltado pra Jazz
