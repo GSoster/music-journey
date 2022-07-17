@@ -126,8 +126,7 @@ Acordes de passagem são usados para mover de um grau para outro.
 </details>
 
 
-
-
+## Modos Gregos
 
 ## Estilos
 
@@ -144,6 +143,18 @@ Na escala de Dó maior seriam: Dm7, G7 (Dominante), Cmaj7 (C▲)
 
 2-5-1 menor é usado em blue bossa, exemplo de 2-5-1 menor:
 D meio diminuto, G7, C-▲ (dó menor com sétima maior)
+
+Jazz Common Chord Progressions:
+ ii - V - I
+
+ iii - vi
+
+I - IV
+
+Juntando tudo ficaria: 
+I - IV - iii - vi - ii - V -I
+
+
 
 #### Scales
 
