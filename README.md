@@ -157,7 +157,8 @@ Os graus 2, 4 e 6 costumam oferecer mais versatilidade, permitindo que os usemos
 - - [ ] Fills 
 - - [ ] Runs
 - - [ ] Scales
-- Acordes de passagem
+- [ ] Acordes de passagem
+- [ ] Padrões de acompanhamento
 
 
 ## Resources
