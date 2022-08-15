@@ -2,7 +2,7 @@
 
 Conjunto de anotações do meu aprendizado musical, a intenção aqui é ter material de referência para as coisas que estudo.
 
-Existe também uma página para [cursos](cursos.md) com a intenção de acompanhar o progresso que faço em cursos online e outra para acompanhar [músicas aprendidas](musicas.md).
+Existe também uma página para [cursos](Cursos.md) com a intenção de acompanhar o progresso que faço em cursos online e outra para acompanhar [músicas aprendidas](Musicas.md).
 
 ## Escalas
 
