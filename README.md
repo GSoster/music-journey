@@ -201,3 +201,7 @@ Site para obter multi-tracks/stems:
 - https://clubremixer.com/jammit-multitrack-stems-a-z/
 - http://multitrackdownloads.blogspot.com/2012/
 
+### Curiosidades, Documentários, etc
+
+[Gui ilustrado para instrumentos de Rock Progressivo](http://www.progarchives.com/forum/forum_posts.asp?TID=98771)
+
