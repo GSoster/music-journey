@@ -84,7 +84,7 @@ Os acordes do campo harmônico maior são divididos em graus de 1 a 7 e seguem s
 | **C**  | C | Dm  |  Em | F  | G  | Am  | Bdim  |
 
 
-## Chords
+## Acordes/Chords
 
 Acordes são construídos a partir do empilhamento de terças.
 
@@ -96,11 +96,15 @@ Acordes com Sétima mais usados no Jazz:
 - C-7 | Cm7 = Dó menor (terça menor) com sétima menor: C, Eb, G, Bb
 - C7 = usa a sétima menor, também chamado de DOMINANTE: C, E, G, Bb
 
-### Chord Extensions
+### Extensões de Acordes / Chord Extensions
 
 Raiz, terça, quinta e sétima são chamado de chord tones.
 Acima disso São os graus 9, 11 e 13 adicionados ao acorde, chamados de extensões de acordes. O grau 15 seria igual ao 1 por isso não é usado.
 Chord extensions são **sempre** construídas a partir da **escala maior** mesmo que o acorde seja menor (C-7 por exemplo).
+
+#### Relações de extensões
+
+Acorde mario + acorde menor formado a partir da quinta do acorde = acorde com 7 e 9
 
 ### Voicings
 
