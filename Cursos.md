@@ -9,7 +9,7 @@ Página para adicionar cursos e acompanhar o progresso feito neles, focando assi
 
 The course is divided into 9 very easy to follow sections:
 
-- [ ] Party Time - Play-By-Ear - Rhythm Style Piano (PDF here)
+- [ ] Party Time - Play-By-Ear - Rhythm Style Piano ([PDF here](arquivos-cursos/pianoforall/Section1_Complete__.pdf))
 
 - [ ] Basic Blues & Rock ’n’ Roll
 
