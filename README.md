@@ -127,6 +127,12 @@ Acordes de passagem são usados para mover de um grau para outro.
   
   ## Chord Progressions
   
+  ### 50`s Progression
+  
+  I vi IV V
+  
+  [50`s Progression](https://en.wikipedia.org/wiki/%2750s_progression)
+  
   Cada estilo tem seu próprio padrão de progressões de acordes comuns, a música classica costuma usar I - IV - V - I. Música Pop tende a usar I - IV - V - vi, Jazz usa ii - V - I
   
 </details>
