@@ -174,6 +174,14 @@ Jazz Scales:
 O Primeiro princípio é garantir que a escala tem as notas cordais (raiz, terça, quinta, sétima) do acorde sendo tocado.
 Os graus 2, 4 e 6 costumam oferecer mais versatilidade, permitindo que os usemos como quisermos.
 
+### Tecladistas
+
+Diferentes tecladistas que desenvolveram seu estilo próprio e como tocar parecido com eles
+
+#### Jordan Rudess
+[How to play like Jordan Rudess](https://soundsongwriting.com/how-to-play-keyboard-like-jordan-rudess/)
+
+
 ## Techniques to learn
 
 - [ ] [Embellishments](https://www.udemy.com/course/piano-embellishments/)
