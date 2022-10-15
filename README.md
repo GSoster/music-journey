@@ -179,7 +179,10 @@ Os graus 2, 4 e 6 costumam oferecer mais versatilidade, permitindo que os usemos
 Diferentes tecladistas que desenvolveram seu estilo próprio e como tocar parecido com eles
 
 #### Jordan Rudess
-[How to play like Jordan Rudess](https://soundsongwriting.com/how-to-play-keyboard-like-jordan-rudess/)
+
+- [Jordan Rudess Online Conservatorie](https://www.jroc.us/)
+- [How to play like Jordan Rudess](https://soundsongwriting.com/how-to-play-keyboard-like-jordan-rudess/)
+- [YousicPlay Jordan Rudess](https://yousicplay.com/virtuoso-jordan-rudess/)
 
 
 ## Techniques to learn
