@@ -38,7 +38,7 @@ A partir do D# é mais fácil executar as escalas a partir do ciclo das quartas 
 | **Cb**  | Cb | Db  | Eb  | **Fb**  | Gb  | Ab  | Bb  |  
 
   
-### Escalas Manroes / Minor Scales
+### Escalas Menores / Minor Scales
   
 #### Escala Menor Natural/Primitica
 
@@ -193,6 +193,7 @@ Diferentes tecladistas que desenvolveram seu estilo próprio e como tocar pareci
 - - [ ] Scales
 - [ ] Acordes de passagem
 - [ ] Padrões de acompanhamento
+- - [ ] [Alberti Method](https://www.youtube.com/watch?v=dqw_uhTII1g&t=506s)
 
 
 ## Resources
