@@ -4,7 +4,13 @@ Conjunto de anotações do meu aprendizado musical, a intenção aqui é ter mat
 
 Existe também uma página para [cursos](Cursos.md) com a intenção de acompanhar o progresso que faço em cursos online e outra para acompanhar [músicas aprendidas](Musicas.md).
 
-## Escalas
+# Table of Contents
+1. [Escalas](#Escalas)
+2. [Acordes](#Acordes)
+3. [Modos Gregos](#ModosGregos)
+4. [Harmonia](#Harmonia)
+
+## <a name="Escalas"></a> Escalas
 
 ### Escala Maior / Major Scale
   
@@ -84,7 +90,7 @@ Os acordes do campo harmônico maior são divididos em graus de 1 a 7 e seguem s
 | **C**  | C | Dm  |  Em | F  | G  | Am  | Bdim  |
 
 
-## Acordes/Chords
+## <a name="Acordes"></a>Acordes/Chords
 
 Acordes são construídos a partir do empilhamento de terças.
 
@@ -138,7 +144,7 @@ Acordes de passagem são usados para mover de um grau para outro.
 </details>
 
 
-## Modos Gregos
+## <a name="ModosGregos"></a> Modos Gregos
 
 ## Estilos
 
@@ -196,7 +202,7 @@ Diferentes tecladistas que desenvolveram seu estilo próprio e como tocar pareci
 - - [ ] [Alberti Method](https://www.youtube.com/watch?v=dqw_uhTII1g&t=506s)
 
 
-## Harmony
+## <a name="Harmonia"></a> Harmonia
 
 ### Books
 
