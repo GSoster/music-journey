@@ -156,6 +156,8 @@ Acordes de passagem são usados para mover de um grau para outro.
 
 ##### ii - V - I
 
+ii - V - I é um caminho de subdominante, dominante e tônica. Sendo assim cria a sensação de movimento (ii subdominante relativa), tensão no aguardo de uma resolução (V dominante) e resolução (I tonica).  
+
 Existem 2 tipos de 2-5-1, o maior e o menor. Maior é muito mais comum.
 Na escala de Dó maior seriam: Dm7, G7 (Dominante), Cmaj7 (C▲)
 
@@ -203,6 +205,26 @@ Diferentes tecladistas que desenvolveram seu estilo próprio e como tocar pareci
 
 
 ## <a name="Harmonia"></a> Harmonia
+
+### Funções Harmonicas
+
+Funções harmonicas são recursos harmonicos, voltados para a parte de acordes, que geram sensações pro ouvinte.
+
+Existem basicamente 3 funcões harmonicas:  
+*Tonica*: Função relacionada a acordes de relaxamento, resolução ou início de algo.  
+*Subdominante*: Processo de transição, normalmente transição de tonica e dominante. É instável, fica no meio do caminho.  
+*Dominante*: É o inverso da Tonica, ela tensiona e cria a expectativa de uma resolução.  
+
+No momento que o nosso ouvido passa por uma *dominante* ele passa a esperar uma *tonica*.
+
+No campo harmonico maior existem três situações de tonicas: I, iii (tonica relativa) e vi (tonica antirelativa) graus.
+Subdominante está presente no IV grau e ii grau (subdominante relativa)
+Dominante está presente no V grau e o dominante antirelativo no vii
+
+| Tom | I | ii | iii | IV | V | vi | vii |
+|---|---|---|---|---|---|---|---|
+| **Função Harmonica** |Tonica| Subdominante Relativa| Tonica Relativa | Subdominante | Dominante | Tonica Antirelativa | Dominante Antirelativo|
+| **C**  | C | Dm  |  Em | F  | G  | Am  | Bdim  |
 
 ### Books
 
