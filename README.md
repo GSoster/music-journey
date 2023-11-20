@@ -200,10 +200,14 @@ Diferentes tecladistas que desenvolveram seu estilo próprio e como tocar pareci
 
 ### Books
 
+Em ordem em que deveriam ser lidos:  
+
 - [ ] [Harmonia e improvisação - Volume I - Almir Chediak](https://www.amazon.com.br/gp/product/857407263X/ref=ewc_pr_img_2?smid=A1ZZFT5FULY4LN&psc=1)
 - [ ] [Curso condensado de harmonia tradicional - Paul Hindemith](https://www.amazon.com.br/gp/product/8574070459/ref=ewc_pr_img_4?smid=A1ZZFT5FULY4LN&psc=1)
 - [ ] [Guide to the Practical Study of Harmony - Tchaikovsky](https://www.amazon.com.br/dp/0486442721/?coliid=I19U4KWVJ4O19S&colid=B4YO7FGUNPNX&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 - - [Video series for Tchaikovsky book](https://www.youtube.com/playlist?list=PL8N_q9CnBsG_wd9InbUnPCG_tQTL1bd4U)
+- [ ] [Harmonia - Arnold Schoenberg](https://www.amazon.com.br/Harmonia-Arnold-Schoenberg/dp/8539301741/ref=sr_1_1?qid=1700495081&refinements=p_27%3AArnold+Schoenberg&s=books&sr=1-1&text=Arnold+Schoenberg)
+- - [Série de vídeos acompanhando os capítulos do livro](https://www.youtube.com/playlist?list=PLs1MSxz74hSNjf1_xCIG52A1ifXkBdqzU)
 
 ## Resources
 
