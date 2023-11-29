@@ -15,3 +15,4 @@ Ableton Live has an awesome series on how to make beats, song structure, etc: [h
 ## Youtubers that teach music production
 
 - [Taetro Ableton Live series](https://www.youtube.com/watch?v=RSnjD6xe5bM)
+- [Music theory producers can use](https://www.youtube.com/watch?v=_oOT3NCkKDk)
