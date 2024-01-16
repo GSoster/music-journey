@@ -4,6 +4,10 @@
 
 Ableton Live has an awesome series on how to make beats, song structure, etc: [https://learningmusic.ableton.com/index.html](https://learningmusic.ableton.com/index.html)
 
+## Curses
+
+- [ ] https://www.classcentral.com/course/abletonlive-2988
+
 ## Tools
 
 - [Edit audio samples with IA](https://samplab.com/?utm_source=youtube&utm_campaign=yt_9&utm_medium=cpc)
