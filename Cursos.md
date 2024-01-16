@@ -34,7 +34,12 @@ From section 6 onwards you will be applying your chord and rhythm knowledge to M
 
 - [ ] Speed Learning
 
-
+## Developing Your Musicianship Specialization - Berklee
+- [ ] [Developing Your Musicianship Specialization](https://www.coursera.org/specializations/musicianship-specialization)
+- - [ ] [Developing Your Musicianship](https://www.coursera.org/learn/develop-your-musicianship?specialization=musicianship-specialization)
+- - [ ] [Musicianship: Chord Charts, Diatonic Chords, and Minor Keys](https://www.coursera.org/learn/musicianship-chords?specialization=musicianship-specialization)
+- - [ ] [Musicianship: Tensions, Harmonic Function, and Modal Interchange](https://www.coursera.org/learn/musicianship-harmony?specialization=musicianship-specialization)
+ 
 ## Piano Dojo
 
 Um curso gratuíto do youtube [(link)](https://www.youtube.com/c/PianoDojo) de 42 semanas onde em cada semana se explora algo novo.  
